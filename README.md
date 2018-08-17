@@ -1,3 +1,3 @@
 # Lungta
 
-The Web Site for the GitHub events on Telegram Channels
+The Website for the GitHub events on Telegram Channels
